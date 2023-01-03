@@ -3,4 +3,4 @@ Repositório do curso de git do senai
 
 readme exemplo
 
-teste 01
+lembrei do comando: git commit
